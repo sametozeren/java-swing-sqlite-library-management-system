@@ -1,4 +1,4 @@
-"# java-swing-sqlite-library-management-system" 
+<h1>Basic Java Swing App - Library Management System</h1>
 
 
 ![1](https://user-images.githubusercontent.com/25853989/50560815-85b1b100-0d15-11e9-8438-9053dd2f81ab.PNG)
